@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahriye Yüksel</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **FrontEnd**
+- 🔭 I’m currently working on **FullStack**
 
 - 📫 How to reach me **fahriyeyuksel@gmail.com**
 
